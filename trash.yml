@@ -100,3 +100,6 @@ import:
 
 - package: github.com/jmespath/go-jmespath
   version: bd40a432e4c76585ef6b72d3fd96fb9b6dc7b68d
+
+- package: github.com/jaypipes/ghw
+  version: 8fc4046cb80975e821e632e79fc8815ceaa11a0f
